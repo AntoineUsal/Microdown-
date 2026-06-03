@@ -149,7 +149,7 @@ MicChecker >> results [
 { #category : 'accessing' }
 MicChecker >> results: anObject [
 
-	results := anObject
+	results := nil
 ]
 
 { #category : 'accessing' }
